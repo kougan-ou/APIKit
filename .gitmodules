@@ -1,0 +1,3 @@
+[submodule "Carthage/Checkouts/Result"]
+	path = Carthage/Checkouts/Result
+	url = ssh://git@github.com/PacteraSunChao/Result.git
